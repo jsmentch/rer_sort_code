@@ -1,2 +1,3 @@
 *.csv
 archive/*.csv
+cp_readnet_code/*

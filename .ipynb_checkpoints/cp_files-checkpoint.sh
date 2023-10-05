@@ -1,4 +1,5 @@
 #!/bin/bash
+#script to take in a list of the unified files eg SRT_unified.csv and move them somewhere in bids-like format
 
 #datalad_dataset='/om2/scratch/tmp/jsmentch/rer_kaggle/data'
 datalad_dataset='/om/tmp/jsmentch/rer_kaggle/data'
